@@ -12,4 +12,4 @@ Hi, I am Hardik Ruparel, and I am from Mumbai, India. I have completed my underg
 
 My interests in Computer Science lies particularly in domains such as Machine Learning, Natural Language Processing and Deep Learning and I aspire to continue diving deeper into these domains. Following this interest, I have successfully completed several projects in areas like Neural Machine Translation, Time series forecasting, Adversarial Learning. Furthermore, my Business as usual (BAU) at UBS comprises of developing back-end jobs using Java and PL/SQL to calculate various RISK calculations. I have also accomplished the migration of multiple back-end jobs and datasets to help enable the execution of these jobs on cloud. 
 
-Apart academics and work, I enjoy playing sports. Sports instantly help me calm down and gather myself. Soccer has been one of my favorites. Along with soccer, I also relish cycling, playing cricket and Table-Tennis.
+Apart academics and work, I enjoy playing sports. Sports instantly help me calm down and gather myself. Soccer has been one of my favorites. Along with soccer, I also relish cycling, playing cricket and table-tennis.
