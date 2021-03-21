@@ -11,6 +11,6 @@ The project aims at translating texts from Hindi to English by training the Tran
 [See Project](https://github.com/Hardik27/Hindi-to-English-Transformer-Based-NMT)
 
 **Topic Modeling on Research Articles** <br/>
-_Aug 2020_ </br>
+_Aug 2020_ <br/>
 Developed a multi-class classifier that takes 'Title' and 'Abstract' as the input and predicts the category to which it belongs it. Pre-processed the data to remove noise characters and then implemented stemming and lemmatization. Trained and compared the results of BERT, RoBerta, OVR Logistic Regression, Binary Relevance models. Achieved a mircro F1 score of 0.837 on the test data of ~9,000 records. <br/>
 [See Project](https://github.com/Hardik27/Topic-Modeling-for-Research-Articles)
