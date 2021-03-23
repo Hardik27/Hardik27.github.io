@@ -7,7 +7,7 @@ author_profile: true
 
 - **UBS, Mumbai** <br/>
 _Software Engineer_ (July 2019 - Present) <br/>
-After completing my undergraduate studies in Information Technology, I joined UBS as a Software Engineer in July 2019. My business deliveries at UBS involve developing back-end jobs using Java and PL/SQL for executing various RISK calculations. In addition to my BAU, I continued to enhance ‘Meri Dukaan’ based on user feedback. Furthermore, I also worked on the development of ‘Meri Dukaan 2.0’ an online and multiplayer version of the application to help students learn from home. Furthermore, to fulfill my keen interest in AI, I also developed a project- ‘Mock Interview Evaluator’ using AI in collaboration with Pratham, an NGO, to help underprivileged students prepare for job interviews. 
+After completing my undergraduate studies in Information Technology, I joined UBS as a Software Engineer in July 2019. My business deliveries at UBS involve developing back-end jobs using Java and PL/SQL for executing various RISK calculations. Furthermore, I am also working on migrating back-end jobs and data onto the cloud for enabling the execution of these jobs on the cloud. In addition to my BAU, I continued to enhance ‘Meri Dukaan’ based on user feedback. Furthermore, I also worked on the development of ‘Meri Dukaan 2.0’ an online and multiplayer version of the application to help students learn from home. Furthermore, to fulfill my keen interest in AI, I also developed a project- ‘Mock Interview Evaluator’ using AI in collaboration with Pratham, an NGO, to help underprivileged students prepare for job interviews. 
 
 
 - **UBS, Mumbai** <br/>
