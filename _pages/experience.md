@@ -5,5 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-**UBS, Mumbai**
+- **UBS, Mumbai** <br/>
 _Software Engineer_ July 2019 - Present
+
+
