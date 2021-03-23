@@ -14,4 +14,5 @@ _Software Engineer Intern_ (June 2018 - July 2018)
 
 
 - **OTB Innovtech LLP** <br/>
-_Application Developer Intern_ (June 2017)
+_Application Developer Intern_ (June 2017) <br/>
+This was a month long summer internship during which I was tasked with work of revamping the application's UI to make it more responsive and aesthetically modern. For this, I used Java and XML in the Android Studio IDE. I also made the application's UI consistent with "three-click" rule to further enhance the user eperience.
