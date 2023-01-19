@@ -7,7 +7,8 @@ author_profile: true
 
 - **University of Califronia, Irvine** <br/>
 _Master of Computer Science_ (September 2021 - December 2022) <br/>
-Relevant Courses: Artificial Intelligence, Computer Security, Advanced Problem Solving, Algorithms
+GPA: 3.925/4.0<br/>
+Relevant Courses: Parallel and Distributed Computing, Neural Networks, Computer Architecture, Advanced Problem Solving
 
 
 - **Veermata Jijabai Technological Institute (VJTI), Mumbai, India** <br/>
